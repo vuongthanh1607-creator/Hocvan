@@ -1,0 +1,6 @@
+{
+  "name": "Ngữ Văn KNTT 10-11-12",
+  "description": "Ứng dụng học tập Ngữ Văn sách Kết nối tri thức lớp 10, 11, 12 với hệ thống lý thuyết, sơ đồ tư duy trực quan, câu hỏi trắc nghiệm, theo dõi tiến độ và đề xuất lộ trình ôn thi thông minh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
